@@ -7,7 +7,7 @@
 we perform exploratory data analysis on Russian, Chinese and Indonesian information operations, to uncover the trolls' tradecraft and modus operandi against a target populace. This analysis wil enable intelligence and security entities to recognize and disrupt trolls waging information warfare.
 
 <p align="center">  
-    <img src="https://github.com/QuekJingHao/google-data-analytics-capstone-project/blob/main/2_Misc/logo.png" width="300" height="300">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/logo.png" width="300" height="300">
 </p>
 
 ### Methods Used
