@@ -144,7 +144,7 @@ In each of the three notebooks, we perform the following analysis:
 
 1. Determine Earliest and Latest Records Tweets
 2. Determine Earliest and Latest Account Creation Times
-
+3. Calculate account statistics
 
 
 
