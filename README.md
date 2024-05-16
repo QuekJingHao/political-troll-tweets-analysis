@@ -145,9 +145,6 @@ In each of the three notebooks, we perform the following analysis:
 
 1. Determine Earliest and Latest Records Tweets
 2. Determine Earliest and Latest Account Creation Times
-<<<<<<< HEAD
-3. Calculate account statistics
-=======
 3. Exploring User Display Names
 4. Exploring User Reported Locations
 5. Calculate Proportion of Retweets
@@ -159,7 +156,6 @@ In each of the three notebooks, we perform the following analysis:
 11. Topics Evolution
 12. Plot Top 10 Most Frequently Used Words
 13. Topic Modelling
->>>>>>> beb8d3d (Changed readme)
 
 
 
