@@ -39,7 +39,7 @@ The EDA notebooks are located in ```3_Notebooks/eda/```. The directory contains 
 1. data sampling/: contains the Jupyter notebook and Python scripts to sample the very huge (~5GB) datasets to form the sample dataset for analysis
 2. eda/: contains ```CN.ipynb, RU.ipynb, IND.ipynb``` eda notebooks. It also contains all of the plots and charts for each of the three analyses
 
-The raw datasets are not included in this repository.
+The raw datasets - due to their sizes - are not included in this repository.
 
 Next, we will summarize the key steps in the project:
 
@@ -203,7 +203,6 @@ China:
 
 Indonesia:
 
-
 <p align="center">  
     <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_account_dis.png">
 </p>
@@ -213,22 +212,114 @@ Indonesia:
 ### 2) Number of Tweets Generated Created against Time <a id = 'Tweet_Dist'></a>
 
 
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_tweet_dis.png">
+</p>
+
+
+
+China:
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_tweet_dis.png">
+</p>
+
+
+
+Indonesia:
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_tweet_dis.png">
+</p>
+
 
 
 
 ### 3) Hashtags Wordcloud <a id = 'Hashtags_Wordcloud'></a>
 
+Russia:
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_hashtags_wordcloud.png">
+</p>
+
+
+
+China:
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_hashtags_wordcloud.png">
+</p>
+
+
+
+Indonesia:
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_hashtags_wordcloud.png">
+</p>
 
 
 
 
 ### 4) Profile Description Wordcloud <a id = 'Profile_Wordcloud'></a>
 
+Russia:
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_profile_wordcloud.png">
+</p>
+
+
+
+China:
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_profile_wordcloud.png">
+</p>
+
+
+
+Indonesia:
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_profile_wordcloud.png">
+</p>
+
 
 
 
 
 ### 5) Topic Evolution <a id = 'Topic_Evolution'></a>
+
+
+Russia:
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_topic_evol_2009 to 2011.png">
+</p>
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_topic_evol_2012 to 2014.png">
+</p>
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_topic_evol_2015 to 2017.png">
+</p>
+
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_topic_evol_2018 to 2020.png">
+</p>
+
+China:
+
+
+
+Indonesia:
+
+
+
 
 
 
