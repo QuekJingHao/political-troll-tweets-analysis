@@ -187,15 +187,26 @@ This last section presents the plots and charts for each of the countries
 
 Russia:
 
-
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_account_dis.png">
+</p>
 
 
 
 China:
 
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_account_dis.png">
+</p>
+
+
 
 Indonesia:
 
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_account_dis.png">
+</p>
 
 
 
