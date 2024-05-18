@@ -186,6 +186,17 @@ This last section presents the plots and charts for each of the countries
 
 ### 1) Number of Accounts Created against Time
 
+Russia:
+
+
+China:
+
+
+Indonesia:
+
+
+
+
 
 
 
