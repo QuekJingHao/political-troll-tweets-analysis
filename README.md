@@ -354,7 +354,7 @@ Indonesia:
 
 ### 7) Topic Modelling <a id = 'Topic_Modelling'></a>
 
-This shows some of the topics exploited by the trolls. I wil only show three for each of the states. The rest of the plots are located in each of the sates in the ```3_Notebooks/eda/``` folder. 
+This shows some of the topics exploited by the trolls. I wil only show three such examples for each of the states.
 
 Russia:
 

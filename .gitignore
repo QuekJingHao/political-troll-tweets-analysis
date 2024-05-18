@@ -3,4 +3,5 @@ __pycache__
 
 
 1_Data/
+3_Notebooks/eda/*plots/
 git_commands.txt
