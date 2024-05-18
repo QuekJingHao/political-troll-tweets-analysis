@@ -149,14 +149,13 @@ In each of the three notebooks, we perform the following analysis:
 4. Exploring User Reported Locations
 5. Calculate Proportion of Retweets
 6. Calculate Account Statistics
-7. Plot Number of Accounts Created against Time
-8. Plot Number of Tweets Generated against Time
-9. Generate Wordcloud from Hashtags Corpus
-10. Generate Wordcloud from Profile Description Corpus
-11. Topics Evolution
-12. Plot Top 10 Most Frequently Used Words
-13. Topic Modelling
-
+7. [Plot Number of Accounts Created against Time](#Account_Dist)
+8. [Plot Number of Tweets Generated against Time](#Tweet_Dist)
+9. [Generate Wordcloud from Hashtags Corpus](#Hashtags_Wordcloud)
+10. [Generate Wordcloud from Profile Description Corpus](#Profile_Wordcloud)
+11. [Topic Evolution](#Topic_Evolution)
+12. [Plot Top 10 Most Frequently Used Words](#Word_Frequency)
+13. [Topic Modelling](#Topic_Modelling)
 
 
 ## **Summary of Analysis**
@@ -184,9 +183,12 @@ Indonesian operations appear to only target the West Papua separatist movement. 
 
 This last section presents the plots and charts for each of the countries
 
-### 1) Number of Accounts Created against Time
+### 1) Number of Accounts Created against Time <a id = 'Account_Dist'></a>
 
 Russia:
+
+
+
 
 
 China:
@@ -197,36 +199,41 @@ Indonesia:
 
 
 
-
-
-
-### 2) Number of Tweets Generated Created against Time
-
-
-
-
-### 4) Word Frequency Plot
+### 2) Number of Tweets Generated Created against Time <a id = 'Tweet_Dist'></a>
 
 
 
 
 
-### 5) Profile Description Wordcloud
+### 3) Hashtags Wordcloud <a id = 'Hashtags_Wordcloud'></a>
 
 
 
 
-### 6) Hashtags Wordcloud
+
+### 4) Profile Description Wordcloud <a id = 'Profile_Wordcloud'></a>
 
 
 
 
-### 7) Topics Evolution
+
+### 5) Topic Evolution <a id = 'Topic_Evolution'></a>
 
 
 
-### 8) Examples of Topics Exploited
 
+
+### 6) Word Frequency Plot <a id = 'Word_Frequency'></a>
+
+
+
+
+
+
+
+### 7) Topic Modelling <a id = 'Topic_Modelling'></a>
+
+This shows some of the topics exploited by the trolls
 
 
 
