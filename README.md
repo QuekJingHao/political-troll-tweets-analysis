@@ -354,20 +354,34 @@ Indonesia:
 
 ### 7) Topic Modelling <a id = 'Topic_Modelling'></a>
 
-This shows some of the topics exploited by the trolls. I wil only show three for each of the states. The rest of the plots are located in each of the ```eda/``` folder. 
+This shows some of the topics exploited by the trolls. I wil only show three for each of the states. The rest of the plots are located in each of the sates in the ```3_Notebooks/eda/``` folder. 
 
 Russia:
 
-
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_topic_21.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_topic_23.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_topic_62.png">
+</p>
 
 
 China:
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_topic_1.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_topic_3.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_topic_108.png">
+</p>
 
 
 
 Indonesia:
 
-
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_topic_5.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_topic_84.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_topic_190.png">
+</p>
 
 
 
