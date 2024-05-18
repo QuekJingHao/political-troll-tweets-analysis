@@ -328,18 +328,47 @@ Indonesia:
 
 
 
-
 ### 6) Word Frequency Plot <a id = 'Word_Frequency'></a>
 
+Russia: 
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_word_frequency.png">
+</p>
 
 
+China:
 
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_word_frequency.png">
+</p>
+
+
+Indonesia:
+
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_word_frequency.png">
+</p>
 
 
 
 ### 7) Topic Modelling <a id = 'Topic_Modelling'></a>
 
-This shows some of the topics exploited by the trolls
+This shows some of the topics exploited by the trolls. I wil only show three for each of the states. The rest of the plots are located in each of the ```eda/``` folder. 
+
+Russia:
+
+
+
+
+China:
+
+
+
+Indonesia:
+
+
+
 
 
 
