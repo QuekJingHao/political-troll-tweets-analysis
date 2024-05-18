@@ -211,6 +211,7 @@ Indonesia:
 
 ### 2) Number of Tweets Generated Created against Time <a id = 'Tweet_Dist'></a>
 
+Russia:
 
 <p align="center">  
     <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_tweet_dis.png">
@@ -297,29 +298,32 @@ Russia:
 
 <p align="center">  
     <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_topic_evol_2009 to 2011.png">
-</p>
-
-<p align="center">  
     <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_topic_evol_2012 to 2014.png">
-</p>
-
-<p align="center">  
     <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_topic_evol_2015 to 2017.png">
-</p>
-
-
-<p align="center">  
     <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/RU_topic_evol_2018 to 2020.png">
 </p>
 
+
 China:
 
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_topic_evol_2012 to 2013.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_topic_evol_2014 to 2015.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_topic_evol_2016 to 2017.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_topic_evol_2018 to 2019.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/CN_topic_evol_2020 to 2021.png">
+</p>
 
 
 Indonesia:
 
 
-
+<p align="center">  
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_topic_evol_2010 to 2012.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_topic_evol_2013 to 2015.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_topic_evol_2016 to 2018.png">
+    <img src="https://github.com/QuekJingHao/political-troll-tweets-analysis/blob/main/2_Misc/IND_topic_evol_2019 to 2020.png">
+</p>
 
 
 
